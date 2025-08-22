@@ -1,6 +1,6 @@
-Convertor = Convertor or {}
+Convertor = {}
 
-Convertor.sub = Convertor.sub or {}
+Convertor.sub = {}
 
 Convertor.main = {}
 

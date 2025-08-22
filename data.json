@@ -1,0 +1,2527 @@
+{
+  "a": [
+    {
+      "type": "float",
+      "name": "a",
+      "method": "get"
+    }
+  ],
+  "activated": [
+    {
+      "type": "boolean",
+      "name": "activated",
+      "method": "set"
+    }
+  ],
+  "activatedRemote": [
+    {
+      "type": "boolean",
+      "name": "activatedRemote",
+      "method": "set"
+    }
+  ],
+  "actualWeight": [
+    {
+      "type": "float",
+      "name": "actualWeight",
+      "method": "get"
+    },
+    {
+      "type": "float",
+      "name": "actualWeight",
+      "method": "set"
+    }
+  ],
+  "age": [
+    {
+      "type": "float",
+      "name": "age",
+      "method": "get"
+    },
+    {
+      "type": "float",
+      "name": "age",
+      "method": "set"
+    }
+  ],
+  "aimReleaseSound": [
+    {
+      "type": "String",
+      "name": "aimReleaseSound",
+      "method": "get"
+    }
+  ],
+  "alcoholPower": [
+    {
+      "type": "float",
+      "name": "alcoholPower",
+      "method": "get"
+    },
+    {
+      "type": "float",
+      "name": "alcoholPower",
+      "method": "set"
+    }
+  ],
+  "alcoholic": [
+    {
+      "type": "boolean",
+      "name": "alcoholic",
+      "method": "set"
+    }
+  ],
+  "alternateModelName": [
+    {
+      "type": "String",
+      "name": "alternateModelName",
+      "method": "get"
+    }
+  ],
+  "ammoType": [
+    {
+      "type": "String",
+      "name": "ammoType",
+      "method": "get"
+    },
+    {
+      "type": "String",
+      "name": "ammoType",
+      "method": "set"
+    }
+  ],
+  "animalFeedType": [
+    {
+      "type": "String",
+      "name": "animalFeedType",
+      "method": "get"
+    }
+  ],
+  "animalTracks": [
+    {
+      "type": "AnimalTracks",
+      "name": "animalTracks",
+      "method": "get"
+    },
+    {
+      "type": "AnimalTracks",
+      "name": "animalTracks",
+      "method": "set"
+    }
+  ],
+  "attachedSlot": [
+    {
+      "type": "int",
+      "name": "attachedSlot",
+      "method": "get"
+    },
+    {
+      "type": "int",
+      "name": "attachedSlot",
+      "method": "set"
+    }
+  ],
+  "attachedSlotType": [
+    {
+      "type": "String",
+      "name": "attachedSlotType",
+      "method": "get"
+    },
+    {
+      "type": "String",
+      "name": "attachedSlotType",
+      "method": "set"
+    }
+  ],
+  "attachedToModel": [
+    {
+      "type": "String",
+      "name": "attachedToModel",
+      "method": "get"
+    },
+    {
+      "type": "String",
+      "name": "attachedToModel",
+      "method": "set"
+    }
+  ],
+  "attachmentReplacement": [
+    {
+      "type": "String",
+      "name": "attachmentReplacement",
+      "method": "get"
+    },
+    {
+      "type": "String",
+      "name": "attachmentReplacement",
+      "method": "set"
+    }
+  ],
+  "attachmentType": [
+    {
+      "type": "String",
+      "name": "attachmentType",
+      "method": "get"
+    },
+    {
+      "type": "String",
+      "name": "attachmentType",
+      "method": "set"
+    }
+  ],
+  "attachmentsProvided": [
+    {
+      "type": "ArrayList<String>",
+      "name": "attachmentsProvided",
+      "method": "get"
+    },
+    {
+      "type": "ArrayList<String>",
+      "name": "attachmentsProvided",
+      "method": "set"
+    }
+  ],
+  "autoAge": [
+    {
+      "type": "",
+      "name": "autoAge",
+      "method": "set"
+    }
+  ],
+  "b": [
+    {
+      "type": "float",
+      "name": "b",
+      "method": "get"
+    }
+  ],
+  "bandagePower": [
+    {
+      "type": "float",
+      "name": "bandagePower",
+      "method": "get"
+    },
+    {
+      "type": "float",
+      "name": "bandagePower",
+      "method": "set"
+    }
+  ],
+  "beingFilled": [
+    {
+      "type": "boolean",
+      "name": "beingFilled",
+      "method": "set"
+    }
+  ],
+  "bloodClothingType": [
+    {
+      "type": "ArrayList<BloodClothingType>",
+      "name": "bloodClothingType",
+      "method": "get"
+    },
+    {
+      "type": "ArrayList<BloodClothingType>",
+      "name": "bloodClothingType",
+      "method": "set"
+    }
+  ],
+  "bloodLevel": [
+    {
+      "type": "float",
+      "name": "bloodLevel",
+      "method": "get"
+    },
+    {
+      "type": "float",
+      "name": "bloodLevel",
+      "method": "set"
+    }
+  ],
+  "bloodLevelAdjustedHigh": [
+    {
+      "type": "float",
+      "name": "bloodLevelAdjustedHigh",
+      "method": "get"
+    }
+  ],
+  "bloodLevelAdjustedLow": [
+    {
+      "type": "float",
+      "name": "bloodLevelAdjustedLow",
+      "method": "get"
+    }
+  ],
+  "bodyLocation": [
+    {
+      "type": "String",
+      "name": "bodyLocation",
+      "method": "get"
+    }
+  ],
+  "boredomChange": [
+    {
+      "type": "float",
+      "name": "boredomChange",
+      "method": "get"
+    },
+    {
+      "type": "float",
+      "name": "boredomChange",
+      "method": "set"
+    }
+  ],
+  "brakeForce": [
+    {
+      "type": "float",
+      "name": "brakeForce",
+      "method": "get"
+    },
+    {
+      "type": "float",
+      "name": "brakeForce",
+      "method": "set"
+    }
+  ],
+  "breakSound": [
+    {
+      "type": "String",
+      "name": "breakSound",
+      "method": "get"
+    },
+    {
+      "type": "String",
+      "name": "breakSound",
+      "method": "set"
+    }
+  ],
+  "bringToBearSound": [
+    {
+      "type": "String",
+      "name": "bringToBearSound",
+      "method": "get"
+    }
+  ],
+  "broken": [
+    {
+      "type": "boolean",
+      "name": "broken",
+      "method": "set"
+    }
+  ],
+  "bulletHitArmourSound": [
+    {
+      "type": "String",
+      "name": "bulletHitArmourSound",
+      "method": "get"
+    }
+  ],
+  "burnt": [
+    {
+      "type": "boolean",
+      "name": "burnt",
+      "method": "set"
+    }
+  ],
+  "burntString": [
+    {
+      "type": "String",
+      "name": "burntString",
+      "method": "get"
+    },
+    {
+      "type": "String",
+      "name": "burntString",
+      "method": "set"
+    }
+  ],
+  "byteData": [
+    {
+      "type": "ByteBuffer",
+      "name": "byteData",
+      "method": "get"
+    }
+  ],
+  "canBeActivated": [
+    {
+      "type": "boolean",
+      "name": "canBeActivated",
+      "method": "set"
+    }
+  ],
+  "canBeRemote": [
+    {
+      "type": "boolean",
+      "name": "canBeRemote",
+      "method": "set"
+    }
+  ],
+  "cat": [
+    {
+      "type": "ItemType",
+      "name": "cat",
+      "method": "get"
+    },
+    {
+      "type": "ItemType",
+      "name": "cat",
+      "method": "set"
+    }
+  ],
+  "category": [
+    {
+      "type": "String",
+      "name": "category",
+      "method": "get"
+    }
+  ],
+  "chanceToSpawnDamaged": [
+    {
+      "type": "int",
+      "name": "chanceToSpawnDamaged",
+      "method": "get"
+    },
+    {
+      "type": "int",
+      "name": "chanceToSpawnDamaged",
+      "method": "set"
+    }
+  ],
+  "clothingItem": [
+    {
+      "type": "ClothingItem",
+      "name": "clothingItem",
+      "method": "get"
+    }
+  ],
+  "clothingItemExtra": [
+    {
+      "type": "ArrayList<String>",
+      "name": "clothingItemExtra",
+      "method": "get"
+    }
+  ],
+  "clothingItemExtraOption": [
+    {
+      "type": "ArrayList<String>",
+      "name": "clothingItemExtraOption",
+      "method": "get"
+    }
+  ],
+  "clothingItemName": [
+    {
+      "type": "String",
+      "name": "clothingItemName",
+      "method": "get"
+    }
+  ],
+  "color": [
+    {
+      "type": "Color",
+      "name": "color",
+      "method": "get"
+    },
+    {
+      "type": "Color",
+      "name": "color",
+      "method": "set"
+    }
+  ],
+  "colorBlue": [
+    {
+      "type": "float",
+      "name": "colorBlue",
+      "method": "get"
+    },
+    {
+      "type": "float",
+      "name": "colorBlue",
+      "method": "set"
+    }
+  ],
+  "colorGreen": [
+    {
+      "type": "float",
+      "name": "colorGreen",
+      "method": "get"
+    },
+    {
+      "type": "float",
+      "name": "colorGreen",
+      "method": "set"
+    }
+  ],
+  "colorInfo": [
+    {
+      "type": "ColorInfo",
+      "name": "colorInfo",
+      "method": "get"
+    }
+  ],
+  "colorRed": [
+    {
+      "type": "float",
+      "name": "colorRed",
+      "method": "get"
+    },
+    {
+      "type": "float",
+      "name": "colorRed",
+      "method": "set"
+    }
+  ],
+  "condition": [
+    {
+      "type": "int",
+      "name": "condition",
+      "method": "get"
+    },
+    {
+      "type": "int",
+      "name": "condition",
+      "method": "set"
+    }
+  ],
+  "conditionFrom": [
+    {
+      "type": "InventoryItem",
+      "name": "conditionFrom",
+      "method": "set"
+    }
+  ],
+  "conditionFromHeadCondition": [
+    {
+      "type": "InventoryItem",
+      "name": "conditionFromHeadCondition",
+      "method": "set"
+    }
+  ],
+  "conditionFromModData": [
+    {
+      "type": "InventoryItem",
+      "name": "conditionFromModData",
+      "method": "set"
+    }
+  ],
+  "conditionLowerChance": [
+    {
+      "type": "int",
+      "name": "conditionLowerChance",
+      "method": "get"
+    }
+  ],
+  "conditionLowerNormal": [
+    {
+      "type": "float",
+      "name": "conditionLowerNormal",
+      "method": "get"
+    },
+    {
+      "type": "float",
+      "name": "conditionLowerNormal",
+      "method": "set"
+    }
+  ],
+  "conditionLowerOffroad": [
+    {
+      "type": "float",
+      "name": "conditionLowerOffroad",
+      "method": "get"
+    },
+    {
+      "type": "float",
+      "name": "conditionLowerOffroad",
+      "method": "set"
+    }
+  ],
+  "conditionMax": [
+    {
+      "type": "int",
+      "name": "conditionMax",
+      "method": "get"
+    },
+    {
+      "type": "int",
+      "name": "conditionMax",
+      "method": "set"
+    }
+  ],
+  "conditionNoSound": [
+    {
+      "type": "int",
+      "name": "conditionNoSound",
+      "method": "set"
+    }
+  ],
+  "conditionTo": [
+    {
+      "type": "InventoryItem",
+      "name": "conditionTo",
+      "method": "set"
+    }
+  ],
+  "conditionWhileLoading": [
+    {
+      "type": "int",
+      "name": "conditionWhileLoading",
+      "method": "set"
+    }
+  ],
+  "consolidateOption": [
+    {
+      "type": "String",
+      "name": "consolidateOption",
+      "method": "get"
+    }
+  ],
+  "container": [
+    {
+      "type": "ItemContainer",
+      "name": "container",
+      "method": "get"
+    },
+    {
+      "type": "ItemContainer",
+      "name": "container",
+      "method": "set"
+    }
+  ],
+  "containerX": [
+    {
+      "type": "int",
+      "name": "containerX",
+      "method": "get"
+    },
+    {
+      "type": "int",
+      "name": "containerX",
+      "method": "set"
+    }
+  ],
+  "containerY": [
+    {
+      "type": "int",
+      "name": "containerY",
+      "method": "get"
+    },
+    {
+      "type": "int",
+      "name": "containerY",
+      "method": "set"
+    }
+  ],
+  "contentsWeight": [
+    {
+      "type": "float",
+      "name": "contentsWeight",
+      "method": "get"
+    }
+  ],
+  "cooked": [
+    {
+      "type": "boolean",
+      "name": "cooked",
+      "method": "set"
+    }
+  ],
+  "cookedString": [
+    {
+      "type": "String",
+      "name": "cookedString",
+      "method": "get"
+    },
+    {
+      "type": "String",
+      "name": "cookedString",
+      "method": "set"
+    }
+  ],
+  "cookingTime": [
+    {
+      "type": "float",
+      "name": "cookingTime",
+      "method": "get"
+    },
+    {
+      "type": "float",
+      "name": "cookingTime",
+      "method": "set"
+    }
+  ],
+  "count": [
+    {
+      "type": "int",
+      "name": "count",
+      "method": "get"
+    },
+    {
+      "type": "int",
+      "name": "count",
+      "method": "set"
+    }
+  ],
+  "countDownSound": [
+    {
+      "type": "String",
+      "name": "countDownSound",
+      "method": "get"
+    },
+    {
+      "type": "String",
+      "name": "countDownSound",
+      "method": "set"
+    }
+  ],
+  "currentAmmoCount": [
+    {
+      "type": "int",
+      "name": "currentAmmoCount",
+      "method": "get"
+    },
+    {
+      "type": "int",
+      "name": "currentAmmoCount",
+      "method": "set"
+    }
+  ],
+  "currentCondition": [
+    {
+      "type": "float",
+      "name": "currentCondition",
+      "method": "get"
+    }
+  ],
+  "currentUses": [
+    {
+      "type": "int",
+      "name": "currentUses",
+      "method": "get"
+    },
+    {
+      "type": "int",
+      "name": "currentUses",
+      "method": "set"
+    }
+  ],
+  "currentUsesFloat": [
+    {
+      "type": "float",
+      "name": "currentUsesFloat",
+      "method": "get"
+    }
+  ],
+  "currentUsesFrom": [
+    {
+      "type": "InventoryItem",
+      "name": "currentUsesFrom",
+      "method": "set"
+    }
+  ],
+  "customColor": [
+    {
+      "type": "boolean",
+      "name": "customColor",
+      "method": "set"
+    }
+  ],
+  "customMenuOption": [
+    {
+      "type": "String",
+      "name": "customMenuOption",
+      "method": "get"
+    },
+    {
+      "type": "String",
+      "name": "customMenuOption",
+      "method": "set"
+    }
+  ],
+  "customName": [
+    {
+      "type": "boolean",
+      "name": "customName",
+      "method": "set"
+    }
+  ],
+  "customWeight": [
+    {
+      "type": "boolean",
+      "name": "customWeight",
+      "method": "set"
+    }
+  ],
+  "damagedSound": [
+    {
+      "type": "String",
+      "name": "damagedSound",
+      "method": "get"
+    }
+  ],
+  "deadBodyObject": [
+    {
+      "type": "IsoDeadBody",
+      "name": "deadBodyObject",
+      "method": "get"
+    }
+  ],
+  "description": [
+    {
+      "type": "String",
+      "name": "description",
+      "method": "get"
+    },
+    {
+      "type": "String",
+      "name": "description",
+      "method": "set"
+    }
+  ],
+  "digType": [
+    {
+      "type": "String",
+      "name": "digType",
+      "method": "get"
+    }
+  ],
+  "discomfortModifier": [
+    {
+      "type": "float",
+      "name": "discomfortModifier",
+      "method": "get"
+    }
+  ],
+  "displayCategory": [
+    {
+      "type": "String",
+      "name": "displayCategory",
+      "method": "get"
+    },
+    {
+      "type": "String",
+      "name": "displayCategory",
+      "method": "set"
+    }
+  ],
+  "displayName": [
+    {
+      "type": "String",
+      "name": "displayName",
+      "method": "get"
+    }
+  ],
+  "doingExtendedPlacement": [
+    {
+      "type": "boolean",
+      "name": "doingExtendedPlacement",
+      "method": "set"
+    }
+  ],
+  "dropSound": [
+    {
+      "type": "String",
+      "name": "dropSound",
+      "method": "get"
+    }
+  ],
+  "durability": [
+    {
+      "type": "float",
+      "name": "durability",
+      "method": "get"
+    },
+    {
+      "type": "float",
+      "name": "durability",
+      "method": "set"
+    }
+  ],
+  "eatTime": [
+    {
+      "type": "int",
+      "name": "eatTime",
+      "method": "get"
+    }
+  ],
+  "eatType": [
+    {
+      "type": "String",
+      "name": "eatType",
+      "method": "get"
+    }
+  ],
+  "engineLoudness": [
+    {
+      "type": "float",
+      "name": "engineLoudness",
+      "method": "get"
+    },
+    {
+      "type": "float",
+      "name": "engineLoudness",
+      "method": "set"
+    }
+  ],
+  "entityNetID": [
+    {
+      "type": "long",
+      "name": "entityNetID",
+      "method": "get"
+    }
+  ],
+  "equipParent": [
+    {
+      "type": "IsoGameCharacter",
+      "name": "equipParent",
+      "method": "get"
+    },
+    {
+      "type": "IsoGameCharacter",
+      "name": "equipParent",
+      "method": "set"
+    }
+  ],
+  "equipSound": [
+    {
+      "type": "String",
+      "name": "equipSound",
+      "method": "get"
+    }
+  ],
+  "equippedWeight": [
+    {
+      "type": "float",
+      "name": "equippedWeight",
+      "method": "get"
+    }
+  ],
+  "evolvedRecipeName": [
+    {
+      "type": "String",
+      "name": "evolvedRecipeName",
+      "method": "get"
+    },
+    {
+      "type": "String",
+      "name": "evolvedRecipeName",
+      "method": "set"
+    }
+  ],
+  "explosionSound": [
+    {
+      "type": "String",
+      "name": "explosionSound",
+      "method": "get"
+    },
+    {
+      "type": "String",
+      "name": "explosionSound",
+      "method": "set"
+    }
+  ],
+  "extraItems": [
+    {
+      "type": "ArrayList<String>",
+      "name": "extraItems",
+      "method": "get"
+    }
+  ],
+  "extraItemsWeight": [
+    {
+      "type": "float",
+      "name": "extraItemsWeight",
+      "method": "get"
+    }
+  ],
+  "fabricType": [
+    {
+      "type": "String",
+      "name": "fabricType",
+      "method": "get"
+    }
+  ],
+  "fatigueChange": [
+    {
+      "type": "float",
+      "name": "fatigueChange",
+      "method": "get"
+    },
+    {
+      "type": "float",
+      "name": "fatigueChange",
+      "method": "set"
+    }
+  ],
+  "favorite": [
+    {
+      "type": "boolean",
+      "name": "favorite",
+      "method": "set"
+    }
+  ],
+  "fileName": [
+    {
+      "type": "String",
+      "name": "fileName",
+      "method": "get"
+    }
+  ],
+  "fillFromDispenserSound": [
+    {
+      "type": "String",
+      "name": "fillFromDispenserSound",
+      "method": "get"
+    }
+  ],
+  "fillFromLakeSound": [
+    {
+      "type": "String",
+      "name": "fillFromLakeSound",
+      "method": "get"
+    }
+  ],
+  "fillFromTapSound": [
+    {
+      "type": "String",
+      "name": "fillFromTapSound",
+      "method": "get"
+    }
+  ],
+  "fillFromToiletSound": [
+    {
+      "type": "String",
+      "name": "fillFromToiletSound",
+      "method": "get"
+    }
+  ],
+  "fireFuelRatio": [
+    {
+      "type": "float",
+      "name": "fireFuelRatio",
+      "method": "get"
+    }
+  ],
+  "fluidContainerFromSelfOrWorldItem": [
+    {
+      "type": "FluidContainer",
+      "name": "fluidContainerFromSelfOrWorldItem",
+      "method": "get"
+    }
+  ],
+  "fullType": [
+    {
+      "type": "String",
+      "name": "fullType",
+      "method": "get"
+    }
+  ],
+  "g": [
+    {
+      "type": "float",
+      "name": "g",
+      "method": "get"
+    }
+  ],
+  "gameEntityType": [
+    {
+      "type": "GameEntityType",
+      "name": "gameEntityType",
+      "method": "get"
+    }
+  ],
+  "gunType": [
+    {
+      "type": "String",
+      "name": "gunType",
+      "method": "get"
+    },
+    {
+      "type": "String",
+      "name": "gunType",
+      "method": "set"
+    }
+  ],
+  "haveBeenRepaired": [
+    {
+      "type": "int",
+      "name": "haveBeenRepaired",
+      "method": "get"
+    },
+    {
+      "type": "int",
+      "name": "haveBeenRepaired",
+      "method": "set"
+    }
+  ],
+  "headCondition": [
+    {
+      "type": "int",
+      "name": "headCondition",
+      "method": "get"
+    },
+    {
+      "type": "int",
+      "name": "headCondition",
+      "method": "set"
+    }
+  ],
+  "headConditionFromCondition": [
+    {
+      "type": "InventoryItem",
+      "name": "headConditionFromCondition",
+      "method": "set"
+    }
+  ],
+  "headConditionLowerChance": [
+    {
+      "type": "int",
+      "name": "headConditionLowerChance",
+      "method": "get"
+    }
+  ],
+  "headConditionLowerChanceMultiplier": [
+    {
+      "type": "float",
+      "name": "headConditionLowerChanceMultiplier",
+      "method": "get"
+    }
+  ],
+  "headConditionMax": [
+    {
+      "type": "int",
+      "name": "headConditionMax",
+      "method": "get"
+    }
+  ],
+  "hearingModifier": [
+    {
+      "type": "float",
+      "name": "hearingModifier",
+      "method": "get"
+    }
+  ],
+  "hotbarEquippedWeight": [
+    {
+      "type": "float",
+      "name": "hotbarEquippedWeight",
+      "method": "get"
+    }
+  ],
+  "iD": [
+    {
+      "type": "int",
+      "name": "iD",
+      "method": "get"
+    },
+    {
+      "type": "int",
+      "name": "iD",
+      "method": "set"
+    }
+  ],
+  "icon": [
+    {
+      "type": "Texture",
+      "name": "icon",
+      "method": "get"
+    },
+    {
+      "type": "Texture",
+      "name": "icon",
+      "method": "set"
+    }
+  ],
+  "iconsForTexture": [
+    {
+      "type": "ArrayList<String>",
+      "name": "iconsForTexture",
+      "method": "get"
+    },
+    {
+      "type": "ArrayList<String>",
+      "name": "iconsForTexture",
+      "method": "set"
+    }
+  ],
+  "infected": [
+    {
+      "type": "boolean",
+      "name": "infected",
+      "method": "set"
+    }
+  ],
+  "initialised": [
+    {
+      "type": "boolean",
+      "name": "initialised",
+      "method": "set"
+    }
+  ],
+  "invHeat": [
+    {
+      "type": "float",
+      "name": "invHeat",
+      "method": "get"
+    }
+  ],
+  "isCookable": [
+    {
+      "type": "boolean",
+      "name": "isCookable",
+      "method": "set"
+    }
+  ],
+  "isCraftingConsumed": [
+    {
+      "type": "boolean",
+      "name": "isCraftingConsumed",
+      "method": "get"
+    },
+    {
+      "type": "boolean",
+      "name": "isCraftingConsumed",
+      "method": "set"
+    }
+  ],
+  "itemAfterCleaning": [
+    {
+      "type": "String",
+      "name": "itemAfterCleaning",
+      "method": "get"
+    }
+  ],
+  "itemCapacity": [
+    {
+      "type": "float",
+      "name": "itemCapacity",
+      "method": "get"
+    },
+    {
+      "type": "float",
+      "name": "itemCapacity",
+      "method": "set"
+    }
+  ],
+  "itemHeat": [
+    {
+      "type": "float",
+      "name": "itemHeat",
+      "method": "get"
+    },
+    {
+      "type": "float",
+      "name": "itemHeat",
+      "method": "set"
+    }
+  ],
+  "itemReplacementPrimaryHand": [
+    {
+      "type": "ItemReplacement",
+      "name": "itemReplacementPrimaryHand",
+      "method": "get"
+    }
+  ],
+  "itemReplacementSecondHand": [
+    {
+      "type": "ItemReplacement",
+      "name": "itemReplacementSecondHand",
+      "method": "get"
+    }
+  ],
+  "itemWhenDry": [
+    {
+      "type": "String",
+      "name": "itemWhenDry",
+      "method": "get"
+    },
+    {
+      "type": "String",
+      "name": "itemWhenDry",
+      "method": "set"
+    }
+  ],
+  "jobDelta": [
+    {
+      "type": "float",
+      "name": "jobDelta",
+      "method": "get"
+    },
+    {
+      "type": "float",
+      "name": "jobDelta",
+      "method": "set"
+    }
+  ],
+  "jobType": [
+    {
+      "type": "String",
+      "name": "jobType",
+      "method": "get"
+    },
+    {
+      "type": "String",
+      "name": "jobType",
+      "method": "set"
+    }
+  ],
+  "keyId": [
+    {
+      "type": "int",
+      "name": "keyId",
+      "method": "get"
+    },
+    {
+      "type": "int",
+      "name": "keyId",
+      "method": "set"
+    }
+  ],
+  "lastAged": [
+    {
+      "type": "float",
+      "name": "lastAged",
+      "method": "get"
+    },
+    {
+      "type": "float",
+      "name": "lastAged",
+      "method": "set"
+    }
+  ],
+  "lightDistance": [
+    {
+      "type": "int",
+      "name": "lightDistance",
+      "method": "get"
+    },
+    {
+      "type": "int",
+      "name": "lightDistance",
+      "method": "set"
+    }
+  ],
+  "lightStrength": [
+    {
+      "type": "float",
+      "name": "lightStrength",
+      "method": "get"
+    },
+    {
+      "type": "float",
+      "name": "lightStrength",
+      "method": "set"
+    }
+  ],
+  "lootType": [
+    {
+      "type": "String",
+      "name": "lootType",
+      "method": "get"
+    }
+  ],
+  "luaCreate": [
+    {
+      "type": "String",
+      "name": "luaCreate",
+      "method": "get"
+    }
+  ],
+  "maintenanceMod": [
+    {
+      "type": "int",
+      "name": "maintenanceMod",
+      "method": "get"
+    }
+  ],
+  "makeUpType": [
+    {
+      "type": "String",
+      "name": "makeUpType",
+      "method": "get"
+    }
+  ],
+  "maxAmmo": [
+    {
+      "type": "int",
+      "name": "maxAmmo",
+      "method": "get"
+    },
+    {
+      "type": "int",
+      "name": "maxAmmo",
+      "method": "set"
+    }
+  ],
+  "maxCapacity": [
+    {
+      "type": "int",
+      "name": "maxCapacity",
+      "method": "get"
+    },
+    {
+      "type": "int",
+      "name": "maxCapacity",
+      "method": "set"
+    }
+  ],
+  "maxMilk": [
+    {
+      "type": "int",
+      "name": "maxMilk",
+      "method": "get"
+    }
+  ],
+  "maxSharpness": [
+    {
+      "type": "float",
+      "name": "maxSharpness",
+      "method": "get"
+    }
+  ],
+  "maxUses": [
+    {
+      "type": "int",
+      "name": "maxUses",
+      "method": "get"
+    }
+  ],
+  "mechanicType": [
+    {
+      "type": "int",
+      "name": "mechanicType",
+      "method": "get"
+    }
+  ],
+  "mediaData": [
+    {
+      "type": "MediaData",
+      "name": "mediaData",
+      "method": "get"
+    }
+  ],
+  "mediaType": [
+    {
+      "type": "byte",
+      "name": "mediaType",
+      "method": "get"
+    },
+    {
+      "type": "byte",
+      "name": "mediaType",
+      "method": "set"
+    }
+  ],
+  "meltingTime": [
+    {
+      "type": "float",
+      "name": "meltingTime",
+      "method": "get"
+    },
+    {
+      "type": "float",
+      "name": "meltingTime",
+      "method": "set"
+    }
+  ],
+  "metalValue": [
+    {
+      "type": "float",
+      "name": "metalValue",
+      "method": "get"
+    },
+    {
+      "type": "float",
+      "name": "metalValue",
+      "method": "set"
+    }
+  ],
+  "milkReplaceItem": [
+    {
+      "type": "String",
+      "name": "milkReplaceItem",
+      "method": "get"
+    }
+  ],
+  "minutesToBurn": [
+    {
+      "type": "float",
+      "name": "minutesToBurn",
+      "method": "get"
+    },
+    {
+      "type": "float",
+      "name": "minutesToBurn",
+      "method": "set"
+    }
+  ],
+  "minutesToCook": [
+    {
+      "type": "float",
+      "name": "minutesToCook",
+      "method": "get"
+    },
+    {
+      "type": "float",
+      "name": "minutesToCook",
+      "method": "set"
+    }
+  ],
+  "modData": [
+    {
+      "type": "KahluaTable",
+      "name": "modData",
+      "method": "get"
+    }
+  ],
+  "modID": [
+    {
+      "type": "String",
+      "name": "modID",
+      "method": "get"
+    }
+  ],
+  "modName": [
+    {
+      "type": "String",
+      "name": "modName",
+      "method": "get"
+    }
+  ],
+  "modelIndex": [
+    {
+      "type": "int",
+      "name": "modelIndex",
+      "method": "get"
+    },
+    {
+      "type": "int",
+      "name": "modelIndex",
+      "method": "set"
+    }
+  ],
+  "module": [
+    {
+      "type": "String",
+      "name": "module",
+      "method": "get"
+    },
+    {
+      "type": "String",
+      "name": "module",
+      "method": "set"
+    }
+  ],
+  "name": [
+    {
+      "type": "String",
+      "name": "name",
+      "method": "get"
+    },
+    {
+      "type": "String",
+      "name": "name",
+      "method": "set"
+    }
+  ],
+  "newPlaceDir": [
+    {
+      "type": "IsoDirections",
+      "name": "newPlaceDir",
+      "method": "get"
+    },
+    {
+      "type": "IsoDirections",
+      "name": "newPlaceDir",
+      "method": "set"
+    }
+  ],
+  "offAge": [
+    {
+      "type": "int",
+      "name": "offAge",
+      "method": "get"
+    },
+    {
+      "type": "int",
+      "name": "offAge",
+      "method": "set"
+    }
+  ],
+  "offAgeMax": [
+    {
+      "type": "int",
+      "name": "offAgeMax",
+      "method": "get"
+    },
+    {
+      "type": "int",
+      "name": "offAgeMax",
+      "method": "set"
+    }
+  ],
+  "offString": [
+    {
+      "type": "String",
+      "name": "offString",
+      "method": "get"
+    },
+    {
+      "type": "String",
+      "name": "offString",
+      "method": "set"
+    }
+  ],
+  "onBreak": [
+    {
+      "type": "String",
+      "name": "onBreak",
+      "method": "get"
+    }
+  ],
+  "origin": [
+    {
+      "type": "IsoGridSquare",
+      "name": "origin",
+      "method": "set"
+    }
+  ],
+  "originX": [
+    {
+      "type": "int",
+      "name": "originX",
+      "method": "get"
+    },
+    {
+      "type": "int",
+      "name": "originX",
+      "method": "set"
+    }
+  ],
+  "originY": [
+    {
+      "type": "int",
+      "name": "originY",
+      "method": "get"
+    },
+    {
+      "type": "int",
+      "name": "originY",
+      "method": "set"
+    }
+  ],
+  "originZ": [
+    {
+      "type": "int",
+      "name": "originZ",
+      "method": "get"
+    },
+    {
+      "type": "int",
+      "name": "originZ",
+      "method": "set"
+    }
+  ],
+  "outermostContainer": [
+    {
+      "type": "ItemContainer",
+      "name": "outermostContainer",
+      "method": "get"
+    }
+  ],
+  "owner": [
+    {
+      "type": "IsoGameCharacter",
+      "name": "owner",
+      "method": "get"
+    }
+  ],
+  "placeDir": [
+    {
+      "type": "IsoDirections",
+      "name": "placeDir",
+      "method": "get"
+    },
+    {
+      "type": "IsoDirections",
+      "name": "placeDir",
+      "method": "set"
+    }
+  ],
+  "placeMultipleSound": [
+    {
+      "type": "String",
+      "name": "placeMultipleSound",
+      "method": "get"
+    }
+  ],
+  "placeOneSound": [
+    {
+      "type": "String",
+      "name": "placeOneSound",
+      "method": "get"
+    }
+  ],
+  "player": [
+    {
+      "type": "IsoPlayer",
+      "name": "player",
+      "method": "get"
+    }
+  ],
+  "pourLiquidOnGroundSound": [
+    {
+      "type": "String",
+      "name": "pourLiquidOnGroundSound",
+      "method": "get"
+    }
+  ],
+  "pourType": [
+    {
+      "type": "String",
+      "name": "pourType",
+      "method": "get"
+    }
+  ],
+  "previousOwner": [
+    {
+      "type": "IsoGameCharacter",
+      "name": "previousOwner",
+      "method": "get"
+    },
+    {
+      "type": "IsoGameCharacter",
+      "name": "previousOwner",
+      "method": "set"
+    }
+  ],
+  "quality": [
+    {
+      "type": "int",
+      "name": "quality",
+      "method": "get"
+    },
+    {
+      "type": "int",
+      "name": "quality",
+      "method": "set"
+    }
+  ],
+  "r": [
+    {
+      "type": "float",
+      "name": "r",
+      "method": "get"
+    }
+  ],
+  "recordedMediaData": [
+    {
+      "type": "MediaData",
+      "name": "recordedMediaData",
+      "method": "set"
+    }
+  ],
+  "recordedMediaIndex": [
+    {
+      "type": "short",
+      "name": "recordedMediaIndex",
+      "method": "get"
+    },
+    {
+      "type": "short",
+      "name": "recordedMediaIndex",
+      "method": "set"
+    }
+  ],
+  "recordedMediaIndexInteger": [
+    {
+      "type": "int",
+      "name": "recordedMediaIndexInteger",
+      "method": "set"
+    }
+  ],
+  "reduceInfectionPower": [
+    {
+      "type": "float",
+      "name": "reduceInfectionPower",
+      "method": "get"
+    },
+    {
+      "type": "float",
+      "name": "reduceInfectionPower",
+      "method": "set"
+    }
+  ],
+  "registry_id": [
+    {
+      "type": "short",
+      "name": "registry_id",
+      "method": "get"
+    },
+    {
+      "type": "Item",
+      "name": "registry_id",
+      "method": "set"
+    }
+  ],
+  "remoteControlID": [
+    {
+      "type": "int",
+      "name": "remoteControlID",
+      "method": "get"
+    },
+    {
+      "type": "int",
+      "name": "remoteControlID",
+      "method": "set"
+    }
+  ],
+  "remoteController": [
+    {
+      "type": "boolean",
+      "name": "remoteController",
+      "method": "set"
+    }
+  ],
+  "remoteRange": [
+    {
+      "type": "int",
+      "name": "remoteRange",
+      "method": "get"
+    },
+    {
+      "type": "int",
+      "name": "remoteRange",
+      "method": "set"
+    }
+  ],
+  "replaceOnUse": [
+    {
+      "type": "String",
+      "name": "replaceOnUse",
+      "method": "get"
+    },
+    {
+      "type": "String",
+      "name": "replaceOnUse",
+      "method": "set"
+    }
+  ],
+  "replaceOnUseFullType": [
+    {
+      "type": "String",
+      "name": "replaceOnUseFullType",
+      "method": "get"
+    }
+  ],
+  "replaceOnUseOn": [
+    {
+      "type": "String",
+      "name": "replaceOnUseOn",
+      "method": "get"
+    },
+    {
+      "type": "String",
+      "name": "replaceOnUseOn",
+      "method": "set"
+    }
+  ],
+  "replaceOnUseOnString": [
+    {
+      "type": "String",
+      "name": "replaceOnUseOnString",
+      "method": "get"
+    }
+  ],
+  "replaceTypes": [
+    {
+      "type": "String",
+      "name": "replaceTypes",
+      "method": "get"
+    }
+  ],
+  "requireInHandOrInventory": [
+    {
+      "type": "ArrayList<String>",
+      "name": "requireInHandOrInventory",
+      "method": "get"
+    },
+    {
+      "type": "ArrayList<String>",
+      "name": "requireInHandOrInventory",
+      "method": "set"
+    }
+  ],
+  "researchableRecipes": [
+    {
+      "type": "ArrayList<String>",
+      "name": "researchableRecipes",
+      "method": "get"
+    }
+  ],
+  "rightClickContainer": [
+    {
+      "type": "ItemContainer",
+      "name": "rightClickContainer",
+      "method": "get"
+    },
+    {
+      "type": "ItemContainer",
+      "name": "rightClickContainer",
+      "method": "set"
+    }
+  ],
+  "saveType": [
+    {
+      "type": "int",
+      "name": "saveType",
+      "method": "get"
+    }
+  ],
+  "scriptItem": [
+    {
+      "type": "Item",
+      "name": "scriptItem",
+      "method": "get"
+    },
+    {
+      "type": "Item",
+      "name": "scriptItem",
+      "method": "set"
+    }
+  ],
+  "sharpness": [
+    {
+      "type": "float",
+      "name": "sharpness",
+      "method": "get"
+    },
+    {
+      "type": "float",
+      "name": "sharpness",
+      "method": "set"
+    }
+  ],
+  "sharpnessFrom": [
+    {
+      "type": "InventoryItem",
+      "name": "sharpnessFrom",
+      "method": "set"
+    }
+  ],
+  "sharpnessIncrement": [
+    {
+      "type": "float",
+      "name": "sharpnessIncrement",
+      "method": "get"
+    }
+  ],
+  "sharpnessMultiplier": [
+    {
+      "type": "float",
+      "name": "sharpnessMultiplier",
+      "method": "get"
+    }
+  ],
+  "shoutMultiplier": [
+    {
+      "type": "float",
+      "name": "shoutMultiplier",
+      "method": "get"
+    }
+  ],
+  "shoutType": [
+    {
+      "type": "String",
+      "name": "shoutType",
+      "method": "get"
+    }
+  ],
+  "square": [
+    {
+      "type": "IsoGridSquare",
+      "name": "square",
+      "method": "get"
+    }
+  ],
+  "stashChance": [
+    {
+      "type": "int",
+      "name": "stashChance",
+      "method": "get"
+    },
+    {
+      "type": "int",
+      "name": "stashChance",
+      "method": "set"
+    }
+  ],
+  "stashMap": [
+    {
+      "type": "String",
+      "name": "stashMap",
+      "method": "get"
+    },
+    {
+      "type": "String",
+      "name": "stashMap",
+      "method": "set"
+    }
+  ],
+  "staticModel": [
+    {
+      "type": "String",
+      "name": "staticModel",
+      "method": "get"
+    },
+    {
+      "type": "String",
+      "name": "staticModel",
+      "method": "set"
+    }
+  ],
+  "staticModelException": [
+    {
+      "type": "String",
+      "name": "staticModelException",
+      "method": "get"
+    }
+  ],
+  "staticModelsByIndex": [
+    {
+      "type": "ArrayList<String>",
+      "name": "staticModelsByIndex",
+      "method": "get"
+    },
+    {
+      "type": "ArrayList<String>",
+      "name": "staticModelsByIndex",
+      "method": "set"
+    }
+  ],
+  "strainModifier": [
+    {
+      "type": "float",
+      "name": "strainModifier",
+      "method": "get"
+    }
+  ],
+  "stressChange": [
+    {
+      "type": "float",
+      "name": "stressChange",
+      "method": "get"
+    },
+    {
+      "type": "float",
+      "name": "stressChange",
+      "method": "set"
+    }
+  ],
+  "stringItemType": [
+    {
+      "type": "String",
+      "name": "stringItemType",
+      "method": "get"
+    }
+  ],
+  "suspensionCompression": [
+    {
+      "type": "float",
+      "name": "suspensionCompression",
+      "method": "get"
+    },
+    {
+      "type": "float",
+      "name": "suspensionCompression",
+      "method": "set"
+    }
+  ],
+  "suspensionDamping": [
+    {
+      "type": "float",
+      "name": "suspensionDamping",
+      "method": "get"
+    },
+    {
+      "type": "float",
+      "name": "suspensionDamping",
+      "method": "set"
+    }
+  ],
+  "swingAnim": [
+    {
+      "type": "String",
+      "name": "swingAnim",
+      "method": "get"
+    }
+  ],
+  "tags": [
+    {
+      "type": "ArrayList<String>",
+      "name": "tags",
+      "method": "get"
+    }
+  ],
+  "taken": [
+    {
+      "type": "ArrayList<IsoObject>",
+      "name": "taken",
+      "method": "get"
+    },
+    {
+      "type": "ArrayList<IsoObject>",
+      "name": "taken",
+      "method": "set"
+    }
+  ],
+  "tex": [
+    {
+      "type": "Texture",
+      "name": "tex",
+      "method": "get"
+    }
+  ],
+  "texture": [
+    {
+      "type": "Texture",
+      "name": "texture",
+      "method": "get"
+    },
+    {
+      "type": "Texture",
+      "name": "texture",
+      "method": "set"
+    }
+  ],
+  "textureBurnt": [
+    {
+      "type": "Texture",
+      "name": "textureBurnt",
+      "method": "get"
+    },
+    {
+      "type": "Texture",
+      "name": "textureBurnt",
+      "method": "set"
+    }
+  ],
+  "textureColorMask": [
+    {
+      "type": "Texture",
+      "name": "textureColorMask",
+      "method": "get"
+    },
+    {
+      "type": "String",
+      "name": "textureColorMask",
+      "method": "set"
+    }
+  ],
+  "textureCooked": [
+    {
+      "type": "Texture",
+      "name": "textureCooked",
+      "method": "get"
+    },
+    {
+      "type": "Texture",
+      "name": "textureCooked",
+      "method": "set"
+    }
+  ],
+  "textureFluidMask": [
+    {
+      "type": "Texture",
+      "name": "textureFluidMask",
+      "method": "get"
+    },
+    {
+      "type": "String",
+      "name": "textureFluidMask",
+      "method": "set"
+    }
+  ],
+  "texturerotten": [
+    {
+      "type": "Texture",
+      "name": "texturerotten",
+      "method": "get"
+    },
+    {
+      "type": "Texture",
+      "name": "texturerotten",
+      "method": "set"
+    }
+  ],
+  "timesHeadRepaired": [
+    {
+      "type": "int",
+      "name": "timesHeadRepaired",
+      "method": "get"
+    },
+    {
+      "type": "int",
+      "name": "timesHeadRepaired",
+      "method": "set"
+    }
+  ],
+  "timesRepaired": [
+    {
+      "type": "int",
+      "name": "timesRepaired",
+      "method": "get"
+    },
+    {
+      "type": "int",
+      "name": "timesRepaired",
+      "method": "set"
+    }
+  ],
+  "tooltip": [
+    {
+      "type": "String",
+      "name": "tooltip",
+      "method": "get"
+    },
+    {
+      "type": "String",
+      "name": "tooltip",
+      "method": "set"
+    }
+  ],
+  "torchCone": [
+    {
+      "type": "boolean",
+      "name": "torchCone",
+      "method": "set"
+    }
+  ],
+  "torchDot": [
+    {
+      "type": "float",
+      "name": "torchDot",
+      "method": "get"
+    }
+  ],
+  "type": [
+    {
+      "type": "String",
+      "name": "type",
+      "method": "get"
+    },
+    {
+      "type": "String",
+      "name": "type",
+      "method": "set"
+    }
+  ],
+  "unCookedString": [
+    {
+      "type": "String",
+      "name": "unCookedString",
+      "method": "get"
+    },
+    {
+      "type": "String",
+      "name": "unCookedString",
+      "method": "set"
+    }
+  ],
+  "unequipSound": [
+    {
+      "type": "String",
+      "name": "unequipSound",
+      "method": "get"
+    }
+  ],
+  "unequippedWeight": [
+    {
+      "type": "float",
+      "name": "unequippedWeight",
+      "method": "get"
+    }
+  ],
+  "unhappyChange": [
+    {
+      "type": "float",
+      "name": "unhappyChange",
+      "method": "get"
+    },
+    {
+      "type": "float",
+      "name": "unhappyChange",
+      "method": "set"
+    }
+  ],
+  "user": [
+    {
+      "type": "IsoGameCharacter",
+      "name": "user",
+      "method": "get"
+    }
+  ],
+  "uses": [
+    {
+      "type": "int",
+      "name": "uses",
+      "method": "get"
+    },
+    {
+      "type": "int",
+      "name": "uses",
+      "method": "set"
+    }
+  ],
+  "usesFrom": [
+    {
+      "type": "InventoryItem",
+      "name": "usesFrom",
+      "method": "set"
+    }
+  ],
+  "visionModifier": [
+    {
+      "type": "float",
+      "name": "visionModifier",
+      "method": "get"
+    }
+  ],
+  "visual": [
+    {
+      "type": "ItemVisual",
+      "name": "visual",
+      "method": "get"
+    }
+  ],
+  "weaponHitArmourSound": [
+    {
+      "type": "String",
+      "name": "weaponHitArmourSound",
+      "method": "get"
+    }
+  ],
+  "weaponLevel": [
+    {
+      "type": "int",
+      "name": "weaponLevel",
+      "method": "get"
+    }
+  ],
+  "weight": [
+    {
+      "type": "float",
+      "name": "weight",
+      "method": "get"
+    },
+    {
+      "type": "float",
+      "name": "weight",
+      "method": "set"
+    }
+  ],
+  "wet": [
+    {
+      "type": "boolean",
+      "name": "wet",
+      "method": "set"
+    }
+  ],
+  "wetCooldown": [
+    {
+      "type": "float",
+      "name": "wetCooldown",
+      "method": "get"
+    },
+    {
+      "type": "float",
+      "name": "wetCooldown",
+      "method": "set"
+    }
+  ],
+  "wetness": [
+    {
+      "type": "float",
+      "name": "wetness",
+      "method": "get"
+    }
+  ],
+  "wheelFriction": [
+    {
+      "type": "float",
+      "name": "wheelFriction",
+      "method": "get"
+    },
+    {
+      "type": "float",
+      "name": "wheelFriction",
+      "method": "set"
+    }
+  ],
+  "withDrainable": [
+    {
+      "type": "String",
+      "name": "withDrainable",
+      "method": "get"
+    }
+  ],
+  "withoutDrainable": [
+    {
+      "type": "String",
+      "name": "withoutDrainable",
+      "method": "get"
+    }
+  ],
+  "worker": [
+    {
+      "type": "String",
+      "name": "worker",
+      "method": "get"
+    },
+    {
+      "type": "String",
+      "name": "worker",
+      "method": "set"
+    }
+  ],
+  "worldAlpha": [
+    {
+      "type": "float",
+      "name": "worldAlpha",
+      "method": "get"
+    },
+    {
+      "type": "float",
+      "name": "worldAlpha",
+      "method": "set"
+    }
+  ],
+  "worldItem": [
+    {
+      "type": "IsoWorldInventoryObject",
+      "name": "worldItem",
+      "method": "get"
+    },
+    {
+      "type": "IsoWorldInventoryObject",
+      "name": "worldItem",
+      "method": "set"
+    }
+  ],
+  "worldObjectSprite": [
+    {
+      "type": "String",
+      "name": "worldObjectSprite",
+      "method": "get"
+    }
+  ],
+  "worldScale": [
+    {
+      "type": "float",
+      "name": "worldScale",
+      "method": "set"
+    }
+  ],
+  "worldStaticItem": [
+    {
+      "type": "String",
+      "name": "worldStaticItem",
+      "method": "get"
+    },
+    {
+      "type": "String",
+      "name": "worldStaticItem",
+      "method": "set"
+    }
+  ],
+  "worldStaticModel": [
+    {
+      "type": "String",
+      "name": "worldStaticModel",
+      "method": "get"
+    },
+    {
+      "type": "String",
+      "name": "worldStaticModel",
+      "method": "set"
+    }
+  ],
+  "worldStaticModelsByIndex": [
+    {
+      "type": "ArrayList<String>",
+      "name": "worldStaticModelsByIndex",
+      "method": "get"
+    },
+    {
+      "type": "ArrayList<String>",
+      "name": "worldStaticModelsByIndex",
+      "method": "set"
+    }
+  ],
+  "worldTexture": [
+    {
+      "type": "String",
+      "name": "worldTexture",
+      "method": "get"
+    },
+    {
+      "type": "String",
+      "name": "worldTexture",
+      "method": "set"
+    }
+  ],
+  "worldXRotation": [
+    {
+      "type": "float",
+      "name": "worldXRotation",
+      "method": "get"
+    },
+    {
+      "type": "float",
+      "name": "worldXRotation",
+      "method": "set"
+    }
+  ],
+  "worldYRotation": [
+    {
+      "type": "float",
+      "name": "worldYRotation",
+      "method": "get"
+    },
+    {
+      "type": "float",
+      "name": "worldYRotation",
+      "method": "set"
+    }
+  ],
+  "worldZRotation": [
+    {
+      "type": "float",
+      "name": "worldZRotation",
+      "method": "get"
+    },
+    {
+      "type": "float",
+      "name": "worldZRotation",
+      "method": "set"
+    }
+  ],
+  "x": [
+    {
+      "type": "float",
+      "name": "x",
+      "method": "get"
+    }
+  ],
+  "y": [
+    {
+      "type": "float",
+      "name": "y",
+      "method": "get"
+    }
+  ],
+  "z": [
+    {
+      "type": "float",
+      "name": "z",
+      "method": "get"
+    }
+  ]
+}

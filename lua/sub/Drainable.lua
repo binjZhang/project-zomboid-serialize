@@ -1,6 +1,3 @@
-Convertor = Convertor or {}
-
-Convertor.sub = Convertor.sub or {}
 
 Convertor.sub.Drainable = {}
 
@@ -9,5 +6,9 @@ Convertor.sub.Drainable.java2lua = function(item)
     return tab
 end
 Convertor.sub.Drainable.lua2java = function(tab)
-
+    local item = Convertor.sub.Normal.lua2java(tab)
+    if item == nil then
+        return nil
+    end
+    return item
 end
